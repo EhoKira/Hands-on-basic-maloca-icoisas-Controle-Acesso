@@ -20,4 +20,4 @@ Desenvolvedor: Lucas Anderson
 [KanBan](https://github.com/users/Lucas-Ladislau/projects/1)
 
 ####  Bibliotecas Adicionais
-Caso seja necessário instalar biblioteca do PubSub ou LCD com I2C, entrar na respectiva pasta e importar para o Arduino IDE.
+Caso seja necessário, instalar biblioteca do PubSub ou LCD com I2C, entrar na respectiva pasta e importar para o Arduino IDE.
