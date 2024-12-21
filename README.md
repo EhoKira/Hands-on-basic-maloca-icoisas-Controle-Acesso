@@ -1,4 +1,4 @@
-# Hands-on-basic-maloca-icoisas-Controle-de-acesso-de-segurança
+# Controle de Acesso de Segurança
 ## Problemática
 A segurança em hospitais é frequentemente comprometida devido a métodos de identificação vulneráveis e verificações ineficazes. O uso de crachás físicos com foto e nome, embora simples, é suscetível a falsificações, permitindo que indivíduos não autorizados obtenham acesso a áreas restritas, como UTIs e salas de cirurgia. Além disso, a análise manual desses crachás é muitas vezes superficial e rápida, o que agrava o risco de falhas na verificação de identidade. Esses problemas colocam em risco a segurança dos pacientes e comprometem a eficiência das equipes médicas, exigindo soluções mais robustas e tecnológicas para mitigar tais vulnerabilidades.
 
